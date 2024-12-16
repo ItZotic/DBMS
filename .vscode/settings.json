@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Final_Project_Pomodoro",
+        "New Project"
+    ],
+    "java.project.referencedLibraries": [
+        "New Project\\lib\\mysql-connector-j-9.1.0.jar"
+    ]
+}
